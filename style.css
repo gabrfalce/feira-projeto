@@ -3,14 +3,14 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    color:black;
+  
 }
 
 /* Corpo do documento */
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    background-color: #f4f4f4;
+    background-color: black#f4f4f4;
     color: #333;
 }
 
