@@ -13,7 +13,10 @@ body {
     background-color: black;
     color: #333;
 }
-
+title 
+{
+    text-align: auto ;
+}
 /* Cabeçalho */
 header {
     background-color: #4CAF50;
