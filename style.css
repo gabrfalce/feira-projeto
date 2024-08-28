@@ -7,10 +7,16 @@
 }
 
 /* Corpo do documento */
+title { 
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #ff0000;
+}
+
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    background-color: black;
+    background-color: rgb(255, 255, 255);
     color: #333;
 }
 title 
