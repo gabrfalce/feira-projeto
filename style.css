@@ -27,8 +27,10 @@ title
 .topo_da_pagina
 {
 margin: auto;
-max-width: 1980px
- ;
-
+max-width: 1980px;
+color:floralwhite;
+display: flex;
+justify-content: flex-start;
+align-items: center;
 }
 
