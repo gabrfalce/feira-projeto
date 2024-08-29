@@ -7,10 +7,6 @@
 }
 
 /* Corpo do documento */
-title { 
-    font-family: Arial, sans-serif;
-    line-height: 1.6;
-    color: #ff0000;
 }
 
 body {
@@ -34,3 +30,9 @@ justify-content: flex-start;
 align-items: center;
 }
 
+.titulo_site {
+    padding: 500px;
+    text-align: center;
+    width: 50%;
+    font: 100px;
+}
