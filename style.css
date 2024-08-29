@@ -37,9 +37,10 @@ align-items: center;
 }
 
 .titulo_site {
-    padding: 500px;
+    padding: 300px;
     text-align: center;
     width: 50%;
     font: 100px;
-    justify-content: start;
+    justify-content: center;
+    color: #ff0000;
 }
