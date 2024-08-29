@@ -9,9 +9,9 @@
 /* Corpo do documento */
 title { 
     font-family: Arial, sans-serif;
-    line-height: 1.6;
+    width: 10px;
     color: #ff0000;
-    text-align: center;
+    text-align: start;
 }
 
 body {
