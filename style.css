@@ -35,7 +35,7 @@ align-items: center;
 
 .titulo_site {
     padding: 500px;
-    justify-content: center;
+    text-align: center;
     width: 50%;
     font: 100px;
     color: #ff0000;
