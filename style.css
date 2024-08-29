@@ -1,42 +1,14 @@
-/* Reset básico */
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-  
-}
-
-/* Corpo do documento */
-
-title { 
-    font-family: Arial, sans-serif;
-    line-height: 1.6;
-    color: purple;
-    text-align: initial ;
-    font-size: 500px ;
-    
-}
-body {
-    font-family: Arial, sans-serif;
-    line-height: 1.6;
-    background-color: rgb(255, 255, 255);
-    color: #333;
-}
-
-.topo_da_pagina
+.title
 {
 margin: auto;
-max-width: 1980px;
-color:floralwhite;
-display: flex;
-justify-content: flex-start;
-align-items: center;
+text-decoration: line-through;
+text-align: start;
+
+    
 }
 
-.titulo_site {
-    padding: 500px;
-   text-align: start;
-    width: 50%;
-    font: 100px;
-    color: purple;
+.titulo_site{
+    text-align: center;
+    color: #ff0000;
+    text-justify: auto;
 }
