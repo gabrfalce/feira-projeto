@@ -8,6 +8,15 @@
 
 /* Corpo do documento */
 
+title { 
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: purple;
+    text-align: start;
+    text-decoration: #ff0000;
+}
+
+
 
 body {
     font-family: Arial, sans-serif;
