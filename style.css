@@ -1,14 +1,21 @@
-.title
-{
-margin: auto;
-text-decoration: line-through;
-text-align: start;
-
-    
-}
 
 .titulo_site{
     text-align: center;
-    color: #ff0000;
-    text-justify: auto;
+    color: white;
+    padding: 50px;
+    text-decoration: blue;
+    
+}
+.cabecalho-itens{
+max-width: 2000px;
+margin: 0 auto;
+text-justify: flex-start;
+align-items: center;
+display: flex;
+color: blue;
+}
+
+head{
+    
+
 }
