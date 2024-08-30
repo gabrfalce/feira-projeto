@@ -1,6 +1,5 @@
-
 .titulo_site{
-    text-align: center;
+    text-align: start;
     color: white;
     padding: 50px;
     text-decoration: blue;
@@ -13,9 +12,4 @@ text-justify: flex-start;
 align-items: center;
 display: flex;
 color: blue;
-}
-
-head{
-    
-
 }
