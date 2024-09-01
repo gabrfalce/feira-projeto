@@ -14,8 +14,8 @@ header
 max-width: 2000px;
 margin: 0 auto;
 text-justify: flex-start;
-align-items: left ;
-display: flex;
+align-items: start ;
+display: left;
 color: blue;
 }
 
