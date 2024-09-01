@@ -13,7 +13,7 @@ header
 .cabecalho-itens{
 max-width: 2000px;
 margin: 0 auto;
-text-justify: flex-start;
+text-justify: center;
 align-items: start ;
 display: left;
 color: blue;
