@@ -1,11 +1,11 @@
 header
 {
-    desktoo-color: black;
+    desktop-color: black;
 }
 
 .titulo_site{
     text-align: start;
-    color:white;
+    color:rgb(0, 0, 0);
     padding: 50px;
     
     
