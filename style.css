@@ -4,7 +4,7 @@ header
 }
 
 .titulo_site{
-    text-align: left ;
+    align-items: left ;
     color:rgb(0, 0, 0);
     padding: 50px;
     
