@@ -18,8 +18,10 @@ align-items: start ;
 display: left;
 color: blue;
 }
+
 .imagens_sociais
 {display: flex;
-    justify-content: flex-end;
-    width: 25%;
-    padding-right: 30px;}
+justify-content: flex-end;
+width: 25%;
+padding-right: 30px;}
+
