@@ -14,9 +14,8 @@ background-color: blue;
 .cabecalho-itens{
 max-width: 2000px;
 margin: 0 auto;
-text-justify: center;
-align-items: start ;
-display: left;
+align-items: center ;
+display: block;
 color: blue;
 }
 
