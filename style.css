@@ -1,6 +1,6 @@
 header
 {
-    desktop-color: black;
+box-decoration-break: clone;
 }
 
 .titulo_site{
