@@ -22,7 +22,7 @@ color: blue;
 .imagens_sociais
 {display: flex;
 justify-content: flex-end;
-width: 15%;
+width: 12%;
 padding-left: 10px;
 align-items: flex-start;
 }
