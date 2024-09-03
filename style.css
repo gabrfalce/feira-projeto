@@ -4,7 +4,7 @@ background-color: blue;
 }
 
 .titulo_site{
-    align-items: left ;
+    align-items: flex-start ;
     color:rgb(0, 0, 0);
     padding: 50px;
     
@@ -23,5 +23,8 @@ color: blue;
 {display: flex;
 justify-content: flex-end;
 width: 20%;
-padding-left: 10px;}
+padding-left: 10px;
+align-items: flex-start;
+}
+
 
