@@ -1,5 +1,5 @@
 header
-{block-size: auto;
+{ box-decoration-break: clone;
     flex-direction: row;
 background-color: blue;
 }
