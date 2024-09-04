@@ -20,8 +20,8 @@ color: blue;
 
 .imagens_sociais
 {
-    display: flex;
-justify-content: flex-end ;
+display: flex;
+justify-content: flex-wnd ;
 width: 20%;
 
 
