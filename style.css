@@ -6,7 +6,7 @@ background-color: blue;
 
 .titulo_site{
     text-align: center;
-    text-decoration-color: black;
+    color: black;
     padding: 50px;
     
 }
@@ -21,7 +21,7 @@ color: blue;
 .imagens_sociais
 {display: flex;
 justify-content: flex-end ;
-width: 25%;
+width: 20%;
 padding-left: 10px;
 
 }
