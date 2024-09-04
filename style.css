@@ -21,10 +21,10 @@ color: blue;
 
 .imagens_sociais
 {display: flex;
-justify-content: flex-start;
+justify-content: flex-end ;
 width: 12%;
 padding-left: 10px;
-align-items: flex-start;
+
 }
 
 
