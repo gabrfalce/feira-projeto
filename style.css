@@ -18,8 +18,7 @@ display: block;
 color: blue;
 }
 
-.imagens_sociais
-{
+.imagens_sociais{
 display: flex;
 justify-content: flex-end;
 width: 20%;
