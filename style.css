@@ -15,7 +15,7 @@ max-width: 2000px;
 margin: 0 auto;
 align-items: center ;
 display: block;
-color: blue;
+color: #04009A;
 }
 
 .imagens_sociais{
@@ -28,12 +28,12 @@ padding-right: 50px;
 .botao
 {
 display: inline-block;
-padding: 20px;
+padding:10px 20px;
 font-size: 16px;
-color: white;
-background-color:blue ;
+color: black;
+background-color: #3EDBF0;
 border: none;
-border-radius: 50px;
+border-radius: 5px;
 text-align: center;
 text-decoration: none;
 cursor: pointer;
