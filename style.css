@@ -42,13 +42,12 @@ color: black;
 background-color: #3EDBF0;
 border: none;
 border-radius: 10px;
-text-align: 3px;
+text-align: center;
 text-decoration: none;
 cursor: pointer;
 display: flex;
 align-items: flex-start;
 display: block;
-
 }
 
 
