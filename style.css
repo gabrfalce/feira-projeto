@@ -29,7 +29,7 @@ color: #04009A;
 display: flex;
 justify-content: flex-end;
 width: 20%;
-padding-right:flex-end ;
+padding-right:end ;
 border: none;
 }
 
@@ -47,7 +47,6 @@ text-decoration: none;
 cursor: pointer;
 display: flex;
 align-items: flex-start;
-display: -moz-grid-line;
 }
 
 
