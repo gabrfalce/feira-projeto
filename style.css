@@ -27,9 +27,9 @@ color: #04009A;
 
 .imagens_sociais{
 display: flex;
-justify-content: stretch;
+justify-content: flex-end;
 width: 20%;
-padding-right:end ;
+padding-right:20 px ;
 border: none;
 }
 
