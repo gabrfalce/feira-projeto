@@ -41,10 +41,10 @@ color: black;
 background-color: #3EDBF0;
 border: none;
 border-radius: 5px;
-text-align: center;
+text-align:center;
 text-decoration: none;
 cursor: pointer;
-padding-right: -500;
+align-items: flex-end;
 }
 
 
