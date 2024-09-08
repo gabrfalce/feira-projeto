@@ -41,7 +41,7 @@ font-size: 25px;
 color: black;
 background-color: #3EDBF0;
 border: none;
-border-radius: 10px;
+border-radius:none;
 text-align: center;
 text-decoration: none;
 cursor: pointer;
