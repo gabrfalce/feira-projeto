@@ -1,3 +1,8 @@
+*{ margin: 0;
+    padding: 0;
+    box-sizing: border-box;}
+
+
 header
 { box-decoration-break: clone;
     flex-direction: initial;
@@ -47,6 +52,8 @@ background-color: rgb(204, 240, 47);
 
 
 }
+.banner
+
 
 
 
