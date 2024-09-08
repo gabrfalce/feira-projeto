@@ -18,6 +18,7 @@ background-color: blue;
 }
 .cabecalho-itens{
 max-width: 2000px;
+border-block-end: #04009A;
 margin: 0 auto;
 align-items: center ;
 display: block;
