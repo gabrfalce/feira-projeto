@@ -25,12 +25,7 @@ display: block;
 color: #04009A;
 }
 
-.imagens_sociais{
-display: flex;
-justify-content: right  ;
-width: 3%;
-padding-right: 20 px ;
-border: none;
+
 }
 
 .botao
