@@ -20,7 +20,7 @@ background-color: blue;
 max-width: 2000px;
 border-block-end: #04009A;
 margin: 0 auto;
-align-items: center ;
+align-items: flex-end ;
 display: block;
 color: #04009A;
 }
