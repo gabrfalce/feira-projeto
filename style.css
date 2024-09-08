@@ -47,6 +47,8 @@ text-decoration: none;
 cursor: pointer;
 display: flex;
 align-items: flex-start;
+display: block;
+
 }
 
 
