@@ -18,7 +18,7 @@ background-color: blue;
 }
 .cabecalho-itens{
 max-width: 2000px;
-border-block-end: #04009A;
+border-block-end:none;
 margin: 0 auto;
 align-items: flex-end ;
 display: block;
@@ -27,7 +27,7 @@ color: #04009A;
 
 .imagens_sociais{
 display: flex;
-justify-content: flex-end;
+justify-content: center;
 width: 20%;
 padding-right:20 px ;
 border: none;
