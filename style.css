@@ -24,7 +24,15 @@ align-items: flex-end ;
 display: block;
 color: #04009A;
 }
+.imagens-sociais 
+{
+display: flex;
+justify-content: flex-end;
+width: 20px;
+padding: auto;
 
+
+}
 
 }
 
