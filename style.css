@@ -42,7 +42,7 @@ padding: 18px ;
 font-size: 25px;
 color: black;
 background-color: #3EDBF0;
-border: none;
+border: border-box ;
 border-radius:none;
 text-align: center;
 text-decoration: none;
