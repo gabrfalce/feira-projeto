@@ -30,7 +30,7 @@ display: flex;
 justify-content: flex-end;
 width: 20%;
 padding: 10px;
-margin: 0 auto ;
+margin: 0;
 }
 
 }
@@ -69,16 +69,16 @@ background-color: rgb(22, 147, 181);
 .wrapper {
     display: flex;
     flex-wrap: wrap;
-    width: 100px;
+    width: 300px;
     background-color: blue;
-    padding: 15px;
+    padding: 10px;
   }
   
   .caixa {
     background-color: red;
-    width: 60px;
+    width: 100px;
     height: 100px;
-    margin: 3px;
+    margin: 5px;
   }
 
 
