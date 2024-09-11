@@ -72,6 +72,7 @@ background-color: rgb(22, 147, 181);
 button
 {
     display: flex;
-justify-content: center
+justify-content: flex-start;
+width: 20px;
 }
 
