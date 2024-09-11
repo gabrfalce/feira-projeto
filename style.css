@@ -26,12 +26,10 @@ color: #04009A;
 }
 .imagens_sociais 
 {
-display: flex;
-justify-content: flex-end;
-width: 100px;
-padding: 30px;
-margin: 0 auto;
-max-width: 1000px;
+    display: flex;
+    justify-content: flex-end;
+    width: 25%;
+    padding-right: 30px;
 }
 
 }
