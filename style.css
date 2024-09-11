@@ -34,22 +34,13 @@ color: #04009A;
 
 }
 
-botao
+.botao
 {
-display: inline-block: 10 10 10;
-padding: 18px;
-heading: 20px;
-margin: 20px;
-color: black;
-background-color: #3EDBF0;
-border: none;
-border: rad 10px;
-text-align: center;
-text-decoration: none;
-cursor: pointer;
+width: 10px;
 display: flex;
-align-items: fle ;
-flex-wrap:wrap;
+justify-content: center ;
+padding-bottom: 10px;
+
 }
 
 
