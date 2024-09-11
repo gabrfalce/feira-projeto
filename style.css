@@ -41,6 +41,7 @@ display: flex;
 justify-content: center ;
 padding-bottom: 10px;
 
+
 }
 
 
@@ -68,5 +69,9 @@ background-color: rgb(22, 147, 181);
     margin: 5px;
   }
 
-
+button
+{
+    display: flex;
+justify-content: center
+}
 
