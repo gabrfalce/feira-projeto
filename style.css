@@ -39,14 +39,13 @@ max-width: 1000px;
 .botao
 {
 display: inline-block: 10 10 10;
-padding: 18px ;
-heading: 20px
-font-size: 25px;
+padding: 18px;
+heading: 20px;
 margin: 20px;
 color: black;
 background-color: #3EDBF0;
 border: none;
-border-radius:10px;
+border: radius 10px;
 text-align: center;
 text-decoration: none;
 cursor: pointer;
