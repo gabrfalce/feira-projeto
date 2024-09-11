@@ -28,9 +28,10 @@ color: #04009A;
 {
 display: flex;
 justify-content: flex-end;
-width: 20%;
+width: 120px;
 padding: 10px;
-margin: 0;
+margin: 0 auto;
+max-width: 1000px;
 }
 
 }
