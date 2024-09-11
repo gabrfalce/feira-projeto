@@ -49,6 +49,8 @@ text-decoration: none;
 cursor: pointer;
 display: flex;
 align-items: flex-end;
+flex-wrap:wrap;
+
 
 }
 
