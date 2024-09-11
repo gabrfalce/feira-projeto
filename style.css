@@ -36,7 +36,7 @@ padding: 10px;
 
 .botao
 {
-display: inline-block;
+display: inline-block: 10 0 20;
 padding: 10px;
 font-size: 25px;
 color: black;
@@ -48,6 +48,7 @@ text-decoration: none;
 cursor: pointer;
 display: flex;
 align-items: flex-end;
+
 }
 
 
