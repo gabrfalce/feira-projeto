@@ -38,8 +38,9 @@ max-width: 1000px;
 
 .botao
 {
-display: inline-block: 20 10 10;
+display: inline-block: 10 10 10;
 padding: 18px ;
+
 font-size: 25px;
 margin: 20px;
 color: black;
