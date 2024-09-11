@@ -49,7 +49,7 @@ text-align: center;
 text-decoration: none;
 cursor: pointer;
 display: flex;
-align-items: flex-start;
+align-items: flex-end;
 }
 
 
