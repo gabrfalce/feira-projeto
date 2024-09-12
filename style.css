@@ -36,10 +36,10 @@ color: #04009A;
 
 .botao
 {
-width: 25px;
+width: 100px;
 display: flex;
 justify-content: center ;
-padding-bottom: 10%;
+padding-bottom: 20%;
 
 
 }
