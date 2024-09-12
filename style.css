@@ -47,6 +47,7 @@ color: #04009A;
     margin: 4px 2px; 
     cursor: pointer;
     border-radius: 4px;
+    justify-content: space-evenly;
 }
 
 
