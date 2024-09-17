@@ -30,13 +30,12 @@ background-color: #040075;
 .imagens_s
 
 {
-    width: 10px;
+    width: 20px;
     padding: right 10%;
     display: flex;
     justify-content: flex-end;
     align-items: center;
 }
-
 
 }
 
