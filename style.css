@@ -70,21 +70,6 @@ background-color: rgb(22, 147, 181);
     align-items: center ;
 }
 
-.wrapper {
-    display: flex;
-    flex-wrap: wrap;
-    width: 300px;
-    background-color: blue;
-    padding: 10px;
-  }
-  
-  .caixa {
-    background-color: red;
-    width: 100px;
-    height: 100px;
-    margin: 5px;
-  }
-
   .bloco_1 {
     background-color: #f0f0f0;
     padding: 10px;
