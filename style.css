@@ -5,7 +5,7 @@
 
 
 
-header
+.header
 { box-decoration-break: clone;
     flex-direction: initial;
 background-color: #0502af;
@@ -34,6 +34,7 @@ background-color: #040075;
     padding: right 10%;
     display: flex;
     justify-content: flex-end;
+    align-items: center;
 }
 
 
