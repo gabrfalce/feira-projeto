@@ -6,7 +6,7 @@
 .body{
     font-family: 'Courier New', Courier, monospace;
     display: flex;
-    justify-content: center;
+    justify-content: flex-end;
 }
 .header{ 
     box-decoration-break: clone;
