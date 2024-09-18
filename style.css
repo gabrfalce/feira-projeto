@@ -8,6 +8,7 @@
     display: flex;
     justify-content: flex-end;
 }
+
 .header{ 
     box-decoration-break: clone;
     flex-direction: initial;
