@@ -38,6 +38,7 @@ background-color: #040075;
     justify-content: flex-end;
     width: 50px;
     padding-right: 30px;
+    align-items: center;
 }
 
 .botao
