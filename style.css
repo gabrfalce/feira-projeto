@@ -32,13 +32,11 @@ border-radius: 20px;
 background-color: #040075;
 }
 .imagens_s
-
 {
-    width: 20px;
-    padding: right 10%;
     display: flex;
     justify-content: flex-end;
-    align-items: center;
+    width: 25%;
+    padding-right: 30px;
 }
 
 }
