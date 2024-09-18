@@ -8,6 +8,12 @@
     display: flex;
     justify-content: center;
 }
+.header{ 
+    box-decoration-break: clone;
+    flex-direction: initial;
+background-color: #0502af;
+
+}
 
 .header
 { box-decoration-break: clone;
