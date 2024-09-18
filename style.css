@@ -19,8 +19,8 @@ background-color: #0502af;
     text-align: center;
     color: #ffffff;
     padding: 50px;
-    
 }
+
 .cabecalho-itens{
 max-width: 2000px;
 border-block-end:none;
@@ -31,6 +31,7 @@ color: #040075;
 border-radius: 20px;
 background-color: #040075;
 }
+
 .imagens_s
 {
     display: flex;
@@ -43,7 +44,6 @@ background-color: #040075;
 
 .botao
 {
-    
     background-color: #03CAE4; 
     color: white; 
     border: none; 
