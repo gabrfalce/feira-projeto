@@ -10,7 +10,7 @@
 }
 
 .header{ 
- \box-decoration-break: clone;
+ box-decoration-break: clone;
     flex-direction: initial;
 background-color: #0502af;
 }
