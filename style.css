@@ -4,14 +4,13 @@
     background-color: #000000;
 
 .body{
-  
     display: flex;
     justify-content: flex-end;
     background-color: #000000;
 }
 
 .header{ 
-    box-decoration-break: clone;
+ \box-decoration-break: clone;
     flex-direction: initial;
 background-color: #0502af;
 }
