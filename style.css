@@ -4,10 +4,6 @@
     background-color: #ffffff;
 }
 
-.body{
-    background-color: white;
-}
-
 .header{ 
  box-decoration-break: clone;
     flex-direction: initial;
