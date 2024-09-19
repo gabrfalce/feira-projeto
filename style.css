@@ -23,14 +23,10 @@
 }
 
 .cabecalho-itens{
-max-width: 2000px;
-border-block-end:none;
-margin: 0 auto;
-align-items: flex-end ;
-display: block;
-color: #040075;
-border-radius: 20px;
-background-color: #040075;
+    width: 500px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
 }
 
 .imagens_s {
