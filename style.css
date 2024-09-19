@@ -3,11 +3,7 @@
     box-sizing: border-box;
     background-color: #000000;
 
-body{
-    display: flex;
-    justify-content: flex-end;
-    background-color: #000000;
-    display: none;
+
 }
 
 .header{ 
