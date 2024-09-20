@@ -32,7 +32,7 @@
 }
 
 .imagens_s {
-    flex-direction: row;
+    
     display: flex;
     justify-content: flex-end;
     width: 25%;
