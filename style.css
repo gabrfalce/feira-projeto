@@ -32,8 +32,9 @@
 }
 
 .imagens_s {
-    display: block;
+    display: flex;
     justify-content: flex-end;
+    align-items: end;
     width: 50px;
     padding-right: 30px;
 }
