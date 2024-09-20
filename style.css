@@ -15,6 +15,7 @@
 }
 
 .titulo_site{
+    display: flex;
     text-align: start;
     color: #ffffff;
     padding: 50px;
