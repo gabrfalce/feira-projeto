@@ -34,7 +34,7 @@
 .imagens_s {
     display: block;
     justify-content: flex-end;
-    width: 25%;
+    width: 50px;
     padding-right: 30px;
 }
 
