@@ -32,7 +32,7 @@
 }
 
 .imagens_s {
-    display: flex;
+    display: block;
     justify-content: flex-end;
     width: 25%;
     padding-right: 30px;
