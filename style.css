@@ -15,9 +15,10 @@
 }
 
 .titulo_site{
-    text-align: center;
+    text-align: start;
     color: #ffffff;
     padding: 50px;
+
 }
 
 .cabecalho-itens{
