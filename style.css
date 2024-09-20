@@ -32,9 +32,8 @@
 }
 
 .imagens_s {
-    
-    display: flex;
-    justify-content: flex-end;
+    align-items: flex-end;
+   flex-direction: row ;
     width: 100%;
     padding-right: 30px;
 }
