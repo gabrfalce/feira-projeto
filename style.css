@@ -33,7 +33,7 @@
 .imagens_s {
     align-items: flex-end;
    flex-direction: row ;
-    !width: 0,3%;
+    width: 0,3%;
     padding: 10px;
 }
 
