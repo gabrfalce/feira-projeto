@@ -19,9 +19,9 @@ background-color: black;
 }
 
 .titulo_site{
-    text-align:flex-start;
-    color: #ffffff;
-    padding: 50px;
+   color: #ffffff;
+   padding: 50px ;
+   display: inline;
 
 }
 
@@ -34,10 +34,11 @@ background-color: black;
 }
 
 .imagens-icons {
-    display: flow-root;
+    display: inline;
     align-items:flex-end;  
-    width: 10 px;
-    padding-right: 200px;
+    width: 10%;
+    padding-right: 0px 600px;
+
     
 }
 
@@ -76,26 +77,23 @@ background-color: rgb(22, 147, 181);
 .sub_titulo{
     text-align: center ; 
     margin: 10px;
-    color: crimson;
+    color: #ffffff;
     padding: 50px; 
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   
 }
 .texto-do-meio{
-    display: flex;
-    text-align:start;
-    color: #ffffff;
-    padding: 10px;
-
-    
+display:inline-flex;
+text-align: start;
+padding: 20px 100px ;
+/* align-items: center; */
+width: 1500px;
+font-size: 25px;
+color: #ffffff;
 }
-.texto-do-meio{
-display:inline;
-text-align: center;
-padding: 25px 600px ;
-align-items: center;
-width: 5px;
 
-
-
+.imagem-baixa
+{
+    display: flex;
+    max-width: 1920px;
 }
