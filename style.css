@@ -2,9 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    
-}
-
+ }
 
  header{ 
     background-color: blue;
@@ -15,8 +13,7 @@
 }
 
 .titulo_site{
-    display: flex;
-    text-align:start;
+    text-align:flex-start;
     color: #ffffff;
     padding: 50px;
 
