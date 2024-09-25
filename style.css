@@ -1,11 +1,17 @@
-*{ 
+    *{ 
     margin: 0;
     padding: 0;
     box-sizing: border-box;
  }
+body
+{
+background-color: black;
+
+}
 
  header{ 
     background-color: blue;
+
     color: blue;
     width: 100%;
     padding: 20px;
@@ -27,17 +33,20 @@
     justify-content: center;
 }
 
-.imagens_s {
-    align-items: flex-end;
-   flex-direction: row ;
-    width: 3PX;
-    padding: 10px;
+.imagens-icons {
+    display: flow-root;
+    align-items:flex-end;  
+    width: 10 px;
+    padding-right: 200px;
+    
 }
 
 .botao
 {
-    background-color: #03CAE4; 
-    color: white; 
+
+    background-color: #0CA2AD; 
+    color: rgb(255, 255, 255) ;
+    opacity: 75%;
     border: none; 
     padding: 10px 20px; 
     text-align: center;
@@ -46,7 +55,7 @@
     font-size: 16px; 
     margin: 4px 2px; 
     cursor: pointer;
-    border-radius: 4px;
+    border-radius: 20px;
     justify-content: space-evenly;
     text-emphasis-color: black ;
     font-family:Arial, Helvetica, sans-serif
@@ -60,14 +69,17 @@ background-color: rgb(22, 147, 181);
 {
     max-width: 1980px;
     display: flex;
-    justify-content: center;
+    justify-content: start  ;
+    a
 }
 
 .sub_titulo{
-    text-align: center;
+    text-align: center ; 
+    margin: 10px;
     color: crimson;
-    padding: 50px;
+    padding: 50px; 
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  
 }
 .texto-do-meio{
     display: flex;
@@ -76,4 +88,14 @@ background-color: rgb(22, 147, 181);
     padding: 10px;
 
     
+}
+.texto-do-meio{
+display: center;
+text-align: center;
+padding: 25px;
+align-items: center;
+width: 25px;
+
+
+
 }
