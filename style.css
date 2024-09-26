@@ -1,6 +1,7 @@
     *{ 
     margin: 0;
     padding: 0;
+    max-width: 1919px ;
     box-sizing: border-box;
  }
 body
@@ -68,10 +69,10 @@ background-color: rgb(22, 147, 181);
 
 .banner
 {
-    max-width: 1980px;
+    max-width: 1919px 889px;
     display: flex;
     justify-content: start  ;
-    a
+    
 }
 
 .sub_titulo{
@@ -94,6 +95,6 @@ color: #ffffff;
 
 .imagem-baixa
 {
+    max-width: 1919px ;
     display: flex;
-    max-width: 1920px;
 }
