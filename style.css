@@ -1,7 +1,7 @@
     *{ 
     margin: 0;
     padding: 0;
-    max-width: 1919px ;
+    max-width: 1920px ;
     box-sizing: border-box;
  }
 body
@@ -12,24 +12,26 @@ background-color: black;
 
  header{ 
     background-color: blue;
-    max-width: 1919px ;
+    max-width: 1920px ;
     color: blue;
     padding: 20px;
     display: flex;
+    width: 1920px ;
+    align-items: flex-start;
 }
 
 .titulo_site{
-display:flex ;
+color: white;
+display: flexbox ;
 justify-content: start;
-color: #ffffff;
-font-size: 25px;
-padding: 25px;
+font-size: 25px ;
+padding: 25px 100px;
 
 
 }
 
 .cabecalho-itens{
-    max-width: 1979,9px;
+    max-width: 1920px;
     margin: 0 auto;
     display: flex;
     align-items: center;
@@ -37,7 +39,7 @@ padding: 25px;
 }
 
 .imagens-icons {
-display: flex;
+display:inline;
 align-items: center;
     width: 50px;
 }
@@ -67,7 +69,7 @@ background-color: rgb(22, 147, 181);
 
 .banner
 {
-    width: 73%;
+    width: 100%;
     display: flex;
     justify-content: center  ;
     height: auto;
@@ -95,8 +97,8 @@ color: #ffffff;
 }
 
 .imagem-baixa
-{
-    max-width: 1919px ;
+{width: 1920px ;
+    max-width: 1920px ;
     display: flex;
     justify-content: center;
 }
