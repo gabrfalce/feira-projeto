@@ -29,6 +29,14 @@ padding: 25px 100px;
 
 
 }
+.radape
+{
+display: flex;
+align-items: center;
+
+
+}
+
 
 .cabecalho-itens{
     max-width: 1920px;
