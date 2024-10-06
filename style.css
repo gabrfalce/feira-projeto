@@ -41,8 +41,23 @@ padding: 25px 100px;
 display: inline; padding: 10px ;
     position: relative;
     align-self: self-end ;
-    
+    width: 5px;
+    font-size: small;
 }
+.imagens-icons_2 {
+    display: inline; padding: 10px ;
+        position: absolute;
+        align-self: self-end ;
+        left: ;
+        
+    }
+
+    .imagens-icons_3 {
+        display: inline; padding: 10px ;
+            position: relative;
+            align-self: self-end ;
+            
+        }    
 .botao
 {
 
