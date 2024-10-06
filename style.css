@@ -3,6 +3,7 @@
     padding: 0;
     max-width: 1920px ;
     box-sizing: border-box;
+    
  }
 body
 {
@@ -27,7 +28,6 @@ justify-content: start;
 font-size: 25px ;
 padding: 25px 100px;
 
-
 }
 .cabecalho-itens{
     max-width: 1920px;
@@ -38,11 +38,10 @@ padding: 25px 100px;
 }
 
 .imagens-icons {
-display:inline-block;
-/* align-items: first baseline; */
-    /* width: 50px; */
-    padding: 20px 5px 10px;
+display: inline; padding: 10px ;
     position: relative;
+    align-self: self-end ;
+    
 }
 .botao
 {
@@ -50,14 +49,14 @@ display:inline-block;
     background-color: #0ca2ad65; 
     color: rgb(255, 255, 255) ;
     border: none; 
-    padding: 10px 20px; 
+    padding: 20px 30px; 
     text-align: center;
     text-decoration: none;
     display: inline-block; 
     font-size: 16px; 
     margin: 4px 2px; 
     cursor: pointer;
-    border-radius: 20px;
+    border-radius: 30px;
     justify-content: space-evenly;
     text-emphasis-color: black ;
     font-family:Arial, Helvetica, sans-serif;
@@ -70,6 +69,7 @@ background-color: rgb(22, 147, 181);
 
 .banner
 {
+    opacity: 10%;
     width: 100%;
     display: flex;
     justify-content: center  ;
