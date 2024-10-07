@@ -5,6 +5,7 @@ projeto feira de profissoes
   uma pagina princpal 
   pagina de cursos 
   pagna matricula
+  pagina secretaria
   >
 >requisitos
 > vscode
