@@ -15,19 +15,21 @@ background-color: black;
     background-color: blue;
     max-width: 1920px ;
     color: blue;
-    padding: 20px;
+    padding: 50px ;
     display: flex;
     width: 1920px ;
     align-items: flex-start;
 }
 
 .titulo_site{
-color: white;
+color: rgb(0, 0, 0);
 display: flexbox ;
 justify-content: start;
 font-size: 25px ;
 padding: 25px 100px;
-
+left: 10px;
+position: absolute;
+font: oblique;
 }
 .cabecalho-itens{
     max-width: 1920px;
@@ -38,25 +40,25 @@ padding: 25px 100px;
 }
 
 .imagens-icons {
-display: inline; padding: 10px ;
-    position: relative;
-    align-self: self-end ;
-    width: 5px;
-    font-size: small;
-}
+    display: inline;  
+    padding: 5px;
+    position: absolute;
+    left: 1300px;
+        
+    }
 .imagens-icons_2 {
-    display: inline; padding: 10px ;
+    display: inline; 
+    padding: 5px ;
         position: absolute;
-        align-self: self-end ;
-        left: ;
+
+        left: 1376px;
         
     }
 
     .imagens-icons_3 {
-        display: inline; padding: 10px ;
-            position: relative;
-            align-self: self-end ;
-            
+        display: inline; padding: 5px ;
+            position: absolute;
+           left: 1450px;
         }    
 .botao
 {
@@ -64,7 +66,7 @@ display: inline; padding: 10px ;
     background-color: #0ca2ad65; 
     color: rgb(255, 255, 255) ;
     border: none; 
-    padding: 20px 30px; 
+    padding: 15px 30px; 
     text-align: center;
     text-decoration: none;
     display: inline-block; 
@@ -85,11 +87,12 @@ background-color: rgb(22, 147, 181);
 .banner
 {
     
-    width: 100%;
+    
     display: flex;
     justify-content: center  ;
     height: auto;
 position: relative;
+
     
 }
 
