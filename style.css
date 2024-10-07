@@ -29,6 +29,7 @@ background-color: black;
     left: 1250px;
     max-width: 1920vw;
     position: absolute;
+    text-decoration: none;
 
 
 
@@ -76,7 +77,6 @@ font-family:'Old English Text MT Regular';
         }    
 .botao
 {
-
     background-color: #0ca2ad65; 
     color: rgb(255, 255, 255) ;
     border: none; 
@@ -85,7 +85,7 @@ font-family:'Old English Text MT Regular';
     text-decoration: none;
     display: inline-block; 
     font-size: 20px; 
-    margin: 20px 2px; 
+    margin: 20px 20px; 
     cursor: pointer;
     border-radius: 10px;
     justify-content: space-evenly;
@@ -183,22 +183,27 @@ padding: 25px 550px 150px;
 .icone_baixo{
 display: inline;
 position: absolute;
-top: 3010px;
+top: 2980px;
 left: 850px;
 
 
 
 }
+.texto_fim{
+font-size: 12px;
+display: inline;
+position: absolute;
+top: 3078px;
+left: 710px;
+cursor:context-menu;
 
+
+} 
 
 footer{
     background-color: #ffffff;
     max-width: 1920px ;
-    padding: 80px ;
-    margin: 180px 1px 0px;
+    padding: 70px ;
+    margin: 150px 1px 0px;
     display: flex;
-    width: 1920px ;
-
-
-
-}
+    width: 1920px ;}
