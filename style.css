@@ -86,7 +86,7 @@ font-family:'Old English Text MT Regular';
     display: inline-block; 
     font-size: 20px; 
     margin: 20px 20px; 
-    cursor:pointer all-scroll;
+    cursor:pointer;
     border-radius: 10px;
     justify-content: space-evenly;
     text-emphasis-color: black ;
