@@ -18,9 +18,20 @@
  <section>
     <div>
         <a class="botao" href="https://www.areadoaluno.seed.pr.gov.br/servicosaoaluno/pages/publico/login.jsf?dswid=677" target="_blank">matricula</a>
-        <a class="botao" href="https://www.youtube.com/watch?v=WHJRwLJrSGM" target="_blank">cursos</a>
         <a class="botao" href="https://gabrfalce.github.io/pagina-secretaria/" target="_blank">secretaria</a>  
-        
+        <div>
+            <button onclick="mostrarBotoes()">Clique aqui</button>
+            <div id="botoes" style="display:none;">
+                <button onclick="window.location.href='https://www.google.com'">Google</button>
+                <button onclick="window.location.href='https://www.facebook.com'">Facebook</button>
+                <button onclick="window.location.href='https://www.instagram.com'">Instagram</button>
+            </div>
+            <script>
+                function mostrarBotoes(){
+                    document.getElementById("botoes").style.display = "block";
+                }
+            </script>
+            </div>
         
         <a class="imagens-icons" href="https://www.google.com">  <img src="facebook.png" width="50px" alt=""></a>
         <a class="imagens-icons_2" href="https://fontawesome.com"> <img src="instagram.png" width="50px" alt=""> </a>     
